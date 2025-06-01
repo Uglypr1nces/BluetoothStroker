@@ -21,18 +21,9 @@
 
 BluetoothStroker/
 ├── bluetooth/     # Handles Bluetooth communication and command parsing
-│   └── 
-│   └── 
-│
 ├── usb_em/        # USB HID emulation logic 
-│   └──
-│   └── 
-│   └── Makefile           # Build script for C code
-│
+│   └── Makefile   # Build script for C code
 ├── scripts/       # Shell scripts for setup and runtime management
-│   └── 
-│   └── 
-│
 └── README.md      # Project documentation
 
 
